@@ -93,6 +93,7 @@ h3 {
 	padding-bottom: 30px;
 	border-bottom: 12px solid #6B728E;
 	border-radius:  1%;
+	text-align: center;
 
 
 }
@@ -111,5 +112,19 @@ h3 {
 @media (max-width: 500px) {
 	body{
 		max-width: 100vh;
+
 	}
+
+	.titl {
+		width: 300px;
+		height: 275px;
+		font-size: 75px;
+	}
+
+	.titl p {
+		text-align: center;
+	}
+
+
+
 }
