@@ -97,3 +97,9 @@ h3 {
 .titl p:hover {
 	transform: scaleX(1.1)
 }
+
+.abhijith{
+	object-fit: cover;
+	object-position: 0% 0% ;
+	
+}
